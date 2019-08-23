@@ -1,0 +1,53 @@
+html{
+  margin: 50px; 
+  position: absolute; 
+}
+
+#home {
+  color:lightgray;
+  text-align: center;
+  font-size: 2em;
+  margin: 25px;
+}
+
+h1 {
+  text-shadow: 2px 4px 3px chartreuse;
+}
+
+#potions {
+  border: 2px solid chartreuse;
+  padding: 25px; 
+  border-radius: 20px; 
+  color: lightgray;
+}
+#cost {
+  border: 2px solid chartreuse;
+  padding: 25px; 
+  border-radius: 20px; 
+  color: lightgray;
+}
+
+#submit {
+  background: green; 
+  margin-top: 25px; 
+  margin-left: 15px; 
+  color: white;
+}
+
+#video {
+  margin: 25px; 
+  
+  width: 75%; 
+  padding-left: 15%;
+  
+}
+#nav-bar {
+  position: fixed;
+ width: 90%;
+}
+#mail{
+  color: lightgray;
+  padding-top: 10%;
+  font-size: 1.25em;  
+  text-shadow: 2px 2px 2px red;
+}
